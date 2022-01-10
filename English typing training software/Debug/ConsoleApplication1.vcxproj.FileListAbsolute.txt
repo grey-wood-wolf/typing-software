@@ -1,0 +1,2 @@
+D:\垃圾\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\垃圾\ConsoleApplication1\Debug\ConsoleApplication1.pdb

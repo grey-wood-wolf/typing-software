@@ -1,0 +1,20 @@
+﻿  ConsoleApplication1.cpp
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(314,37): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(319,35): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(320,35): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(321,33): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(334,38): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(339,36): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(340,36): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(341,35): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(575,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(682,8): warning C4551: 缺少参数列表的函数调用
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(702,5): warning C4551: 缺少参数列表的函数调用
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(787,10): warning C4551: 缺少参数列表的函数调用
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(901,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 68 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> D:\垃圾\ConsoleApplication1\Release\ConsoleApplication1.exe

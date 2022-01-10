@@ -1,0 +1,17 @@
+﻿  ConsoleApplication1.cpp
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(313,37): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(318,35): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(319,35): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(320,33): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(333,38): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(338,36): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(339,36): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(340,35): warning C4302: “类型强制转换”: 从“char *”到“TCHAR”截断
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(574,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(681,8): warning C4551: 缺少参数列表的函数调用
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(701,5): warning C4551: 缺少参数列表的函数调用
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(786,10): warning C4551: 缺少参数列表的函数调用
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(900,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(1306): warning C4172: 返回局部变量或临时变量的地址: aa
+D:\垃圾\ConsoleApplication1\ConsoleApplication1.cpp(1331): warning C4172: 返回局部变量或临时变量的地址: aa
+  ConsoleApplication1.vcxproj -> D:\垃圾\ConsoleApplication1\Debug\ConsoleApplication1.exe
